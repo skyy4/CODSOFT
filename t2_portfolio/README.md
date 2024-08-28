@@ -1,8 +1,8 @@
 # Portfolio< Repository
-This repository contains cPortfolio< that were developed to help developers learn and improve their skills in web development. Each project has its own folder and contains all the necessary files, including HTML,CSS,JS.
+This repository contains Portfolio that were developed to help developers learn and improve their skills in web development. Each project has its own folder and contains all the necessary files, including HTML,CSS,JS.
 
 # Project
-<a href="https://csp2skyy4.netlify.app/">Portfolio</a>
+<a href="https://skyy4.netlify.app/">Portfolio</a>
 <br>
 ![alt text](portfolio.gif)
 
