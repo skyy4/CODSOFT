@@ -4,7 +4,7 @@ This repository contains calculatorApp that were developed to help developers le
 # Project
 <a href="https://csp3skyy4.netlify.app/">calculatorApp</a>
 <br>
-![csp3](<Recording 2024-08-28 214443.gif>)
+![alt text](calculatorApp.gif)
 
 
 # Installation
