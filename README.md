@@ -15,14 +15,14 @@
 <br>
 <a href="https://skyy4.netlify.app/">Portfolio</a>
 <br>
-![alt text](portfolio.gif)
+<p><img src="https://imgur.com/gallery/skyy4-YkIHDqQ" alt="alt text"></p>
 <br>
 
 " P03- Calculator App " 
 <br>
 <a href="https://csp3skyy4.netlify.app/">calculatorApp</a>
 <br>
-![alt text](calculatorApp.gif)
+<p><img src="https://imgur.com/gallery/skyy4-iN7OUHb" alt="alt text"></p>
 # Installation
 To use these projects, simply clone or download the repository to your local machine:
 <p>git clone https://github.com/skyy4/CODSOFT</p>
