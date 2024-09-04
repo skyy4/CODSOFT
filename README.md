@@ -1,6 +1,11 @@
 # CODSOFT
  To my internship journey! In this repository, you’ll find three web development projects I worked on during my internship. From responsive landing pages to interactive web apps, dive into the code and explore.
 
+ ### [Certificate of Completion]
+ <br>
+ <img src="certificate.png" alt="Certificate" width="300" height="200" style="border: 1px solid black" title="My Image Tooltip">
+
+
 
 # Projects-
 
